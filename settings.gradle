@@ -1,0 +1,3 @@
+rootProject.name = "dib Api"
+include ':app'
+include ':dib_api_paid'
