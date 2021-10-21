@@ -24,6 +24,24 @@ Step 2. Add the dependency
 	}
 Share this release:
 
+	<repositories>
+		<repository>
+		    <id>jitpack.io</id>
+		    <url>https://jitpack.io</url>
+		</repository>
+	</repositories>
+Step 2. Add the dependency
+
+	<dependency>
+	    <groupId>com.github.dib-artificial</groupId>
+	    <artifactId>dibApi</artifactId>
+	    <version>3.0.1</version>
+	</dependency>
+Share this release:
+
+Link
+That's it! The first time you request a project JitPack checks out the code, builds it and serves the build artifacts (jar, aar).
+
 Link
 That's it! The first time you request a project JitPack checks out the code, builds it and serves the build artifacts (jar, aar).
 
